@@ -1,0 +1,1 @@
+export { OurPartnershipsSection } from "./OurPartnershipsSection";
